@@ -1,4 +1,4 @@
-## 基于Web Socket 的Web Server框架
+## 基于Socket 的Web Server框架
 
 - ### 注册与登录
     
